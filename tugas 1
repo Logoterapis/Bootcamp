@@ -1,0 +1,5 @@
+# Input Nama
+nama = input ("masukan nama: ")
+
+# Perintah Print
+print("Hai",nama,"Selamat Datang")
